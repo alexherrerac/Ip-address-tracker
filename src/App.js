@@ -19,8 +19,6 @@ const App = () => {
   return (
     <Context.Provider value={{ state, setState }}>
       <Header />
-      <Information />
-      <Map />
     </Context.Provider>
   )
 }
