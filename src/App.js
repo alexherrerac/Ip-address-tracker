@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import Map from './components/map/map'
 import Header from './components/header/header'
 import Information from './components/informations/informations'
+import Map from './components/map/map'
 import Context from './context/context'
 
 const App = () => {
